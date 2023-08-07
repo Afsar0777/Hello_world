@@ -5,3 +5,9 @@ a=12
 b=65
 c=a+b
 print{"c"}
+print{"hello world"}
+print{"foss practical on github"}
+a=12
+b=65
+c=a+b
+print{"c"}
